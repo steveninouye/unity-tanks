@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{0E6A7987-0CB8-F888-0A22-54F1E345D877}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tank/TankHealth.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shell/ShellExplosion.cs">
     <Files>
       <File FileName="Assets/Scripts/Tank/TankMovement.cs" Line="110" Column="71" />
       <File FileName="Assets/Scripts/Camera/CameraControl.cs" Line="8" Column="26" />
       <File FileName="Assets/Scripts/UI/UIDirectionControl.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Tank/TankHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Tank/TankHealth.cs" Line="71" Column="37" />
+      <File FileName="Assets/Scripts/Shell/ShellExplosion.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
