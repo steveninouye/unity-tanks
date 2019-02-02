@@ -36,7 +36,6 @@ public class TankManager
         }
     }
 
-
     public void DisableControl()
     {
         m_Movement.enabled = false;

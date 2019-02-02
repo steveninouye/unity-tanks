@@ -110,7 +110,7 @@ public class GameManager : MonoBehaviour
         m_RoundWinner = GetRoundWinner();
 
         if (m_RoundWinner != null)
-            m_RoundWinner.m_Wins++;
+            m_RoundWinner.m_Wins++; 
 
         m_GameWinner = GetGameWinner();
 

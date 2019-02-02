@@ -1,6 +1,10 @@
 WebGL
 PlayerPath?
+<<<<<<< HEAD
 /Users/steveninouye/Desktop/tanks
+=======
+/Users/steveninouye/Projects/tanks/game
+>>>>>>> readme
 SceneListBegin?
 Assets/Scenes/Main.unity
 SceneListEnd?
